@@ -1,0 +1,56 @@
+/* dashboard.css */
+/* Custom CSS styles for the dashboard */
+
+.card {
+    background-color: #952323;
+    color: #fff; /* Text color for better readability */
+}
+
+.card:hover {
+    background-color: #D4DAB5; /* Change color on hover */
+}
+
+body {
+    background-color: #f4f6f9;
+}
+
+.wrapper {
+    height: 100vh;
+}
+
+.main-sidebar {
+    background-color: #D4DAB5;
+    color: #ff0000; /* Teks diubah menjadi merah (#ff0000 adalah kode warna merah) */
+}
+
+.brand-link {
+    border-bottom: 2px solid #28a745;
+}
+
+/* Mengubah warna teks "New Product" menjadi merah */
+.nav-item a {
+    color: #ff0000 !important;
+}
+
+/* Mengubah warna teks "Pondok Mak Sati" menjadi merah */
+.brand-text {
+    color: #952323;
+}
+
+.content-wrapper {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-text {
+    margin-top: 10px;
+}
+
+.nav-item a:hover {
+    color: #28a745 !important;
+}
